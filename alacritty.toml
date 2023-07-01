@@ -1,0 +1,16 @@
+[cursor.style]
+shape = "Beam"
+
+[shell]
+program = "nu"
+
+[window]
+opacity = 0.75
+
+background_images = [
+#  "/Users/shuto/.config/wezterm/kanako.JPG",
+  "/Users/shuto/.config/wezterm/suntry_nomu.JPG",
+# "/Users/shuto/.config/wezterm/nakamura.png",
+# "/Users/shuto/.config/wezterm/IMG_0817.png",
+]
+background_image_intensity = 0.35
