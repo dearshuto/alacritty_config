@@ -9,7 +9,7 @@ opacity = 0.75
 
 background_images = [
 #  "/Users/shuto/.config/wezterm/kanako.JPG",
-  "/Users/shuto/.config/wezterm/suntry_nomu.JPG",
+  "suntry_nomu.JPG",
 # "/Users/shuto/.config/wezterm/nakamura.png",
 # "/Users/shuto/.config/wezterm/IMG_0817.png",
 ]
